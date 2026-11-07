@@ -1,0 +1,16 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D5:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'J1:TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm'.
+Info: Processing symbol 'J2:TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Total warnings: 0, errors: 0.
+
+
+
+
+Info: Total warnings: 0, errors: 0.
